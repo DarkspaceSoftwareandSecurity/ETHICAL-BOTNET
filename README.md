@@ -1,5 +1,7 @@
 # ETHICAL-BOTNET
 PRIVATE COMUNICATIONS FOR SECURITY PROFESTIONALS &amp; TECHNICAL TRAINERS 
+https://darkspacesoftwareandsecurity.com/
+
 
 ![dark_angel_armor](https://github.com/user-attachments/assets/3ba9c00c-1cc0-4070-9f84-160796be8179)
 
@@ -74,6 +76,8 @@ Once connected, follow instructions from the instructor for screen sharing, vide
 7. Security Considerations
 The Ethical Remote Access Tool is designed with security in mind. All communication between clients and the server is done over encrypted channels. Students are required to submit contact details which are stored securely. Instructors are advised to use strong, unique passwords for email accounts used for notifications.
 
+TO INSTALL THE SCRIPT GIT CLONE CD IN TO DIR RUN python  remote_access_tool.py  thats it all dependencies will be install automatically 
+                                                      
 8. Troubleshooting
 Common Issues:
 
